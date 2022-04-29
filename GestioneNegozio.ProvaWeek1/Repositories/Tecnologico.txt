@@ -1,0 +1,3 @@
+﻿T01-cellulare-1500-Iphone-true
+T02-cuffie-50-Samsung-false
+T03-tablet-600-Dell-true
